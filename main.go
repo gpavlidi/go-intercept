@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/gpavlidi/gointercept/interceptor"
+	"github.com/gpavlidi/go-intercept/interceptor"
 	"log"
 	"os"
 	"path"
